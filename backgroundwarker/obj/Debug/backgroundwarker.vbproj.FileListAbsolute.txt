@@ -1,0 +1,11 @@
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\backgroundwarker\backgroundwarker\bin\Debug\backgroundwarker.exe.config
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\backgroundwarker\backgroundwarker\bin\Debug\backgroundwarker.exe
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\backgroundwarker\backgroundwarker\bin\Debug\backgroundwarker.pdb
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\backgroundwarker\backgroundwarker\bin\Debug\backgroundwarker.xml
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\backgroundwarker\backgroundwarker\obj\Debug\backgroundwarker.vbprojResolveAssemblyReference.cache
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\backgroundwarker\backgroundwarker\obj\Debug\backgroundwarker.Form1.resources
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\backgroundwarker\backgroundwarker\obj\Debug\backgroundwarker.Resources.resources
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\backgroundwarker\backgroundwarker\obj\Debug\backgroundwarker.vbproj.GenerateResource.Cache
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\backgroundwarker\backgroundwarker\obj\Debug\backgroundwarker.exe
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\backgroundwarker\backgroundwarker\obj\Debug\backgroundwarker.xml
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\backgroundwarker\backgroundwarker\obj\Debug\backgroundwarker.pdb
